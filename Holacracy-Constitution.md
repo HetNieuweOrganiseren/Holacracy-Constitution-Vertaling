@@ -8,20 +8,23 @@
 
 ~~The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
 
-De ***"Leden"*** accepteerd bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun authoriteit ontlenen aan de regels en processen hieronder beschreven. De leden en/of hun eventuele nazaten mogen deze spelregels op elk moment aanpassen of verwerpen vanuit dezelfde authoriteit waarmee zij deze aangenomen hebben. Zolang de aanpassingen maar wel in dit document geschreven worden.
+De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun authoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden.
 
 ~~Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
 
-Alle bestaande regels en processen van de organisatie blijven gelden. Maar mogen alleen uitgebreid of aangepast worden volgens deze spelregels. En verliezen elk gewicht of authoriteit zodra er iets word gemaakt dat ze vervangt of tegenspreekt.
+Alle bestaande regels en processen van de organisatie blijven gelden, maar mogen alleen uitgebreid of aangepast worden volgens deze spelregels. 
+Regels en processen verliezen elke vorm van authoriteit zodra er iets gemaakt wordt dat ze vervangt of tegenspreekt.
 
 ~~The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
 
-De organisatie mag ***"Partners"*** uitnodigen om te assisteren met het besturen en operaties zolang de Partner akkoord gaat met deze spelregels. De Organizatie bepaald hoe zij Partners toevoegd en verwijderd.
+De Organisatie mag ***"Partners"*** (geintereseerden & kandidaten) uitnodigen om mee te doen ~~te assisteren~~ met het besturen en uitvoeren van acties zolang de Partner akkoord gaat met deze spelregels. De Organisatie bepaald wanneer en op welke manier Partners bij kunnen dragen.
 ~~,tenzij de leden anders aangeven. Ook bepalen de leden de eerste Partners.
 
 ~~Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
 
-Als Partner kan je vertrouwen op de authoriteit die deze spelregels jou geven. Alle verantwoordelijkheden en beperkingen voor jou komen voort uit deze spelregels en de daaruit groeiende Organisatie, jouw rechtsgeldige verantwoordelijkheden naar de organisatie en bij het handelen in naam van de Organisatie. 
+**we waren hier gebleven**
+Als deelnemer van de organisatie kun je vertrouwen op de authoriteit die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen binnen de Holarchie komen voort uit deze spelregels en de daaruit groeiende Organisatie (expliciet document b.v. glassfrog), jouw rechtsgeldige verantwoordelijkheden naar de organisatie en bij het handelen in naam van de Organisatie. 
+
 Geen enkele expliciete of impliciete verwachting of beperking heeft enige authoriteit over jou als deze niet verkregen is door deze spelregels. 
 
 ~~## Article 1: Organizational Structure
