@@ -1,6 +1,6 @@
 ~~# **Holacracy Constitution**
 
-# **Holarchie spelregels
+# Holarchie spelregels
 
 ~~## Preamble
 
