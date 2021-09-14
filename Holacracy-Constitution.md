@@ -1,33 +1,33 @@
-~~# **Holacracy Constitution**
+~~# **Holacracy Constitution**~~
 
 # Holarchie spelregels
 
-~~## Preamble
+~~## Preamble~~
 
 ## Voorwoord
 
-~~The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+~~The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.~~
 
 De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun authoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden.
 
-~~Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+~~Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.~~
 
 Alle bestaande regels en processen van de organisatie blijven gelden, maar mogen alleen uitgebreid of aangepast worden volgens deze spelregels. 
 Regels en processen verliezen elke vorm van authoriteit zodra er iets gemaakt wordt dat ze vervangt of tegenspreekt.
 
-~~The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
+~~The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.~~
 
 De Organisatie mag ***"Partners"*** (geintereseerden & kandidaten) uitnodigen om mee te doen ~~te assisteren~~ met het besturen en uitvoeren van acties zolang de Partner akkoord gaat met deze spelregels. De Organisatie bepaald wanneer en op welke manier Partners bij kunnen dragen.
-~~,tenzij de leden anders aangeven. Ook bepalen de leden de eerste Partners.
+~~,tenzij de leden anders aangeven. Ook bepalen de leden de eerste Partners.~~
 
-~~Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+~~Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.~~
 
 **we waren hier gebleven**
 Als deelnemer van de organisatie kun je vertrouwen op de authoriteit die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen binnen de Holarchie komen voort uit deze spelregels en de daaruit groeiende Organisatie (expliciet document b.v. glassfrog), jouw rechtsgeldige verantwoordelijkheden naar de organisatie en bij het handelen in naam van de Organisatie. 
 
 Geen enkele expliciete of impliciete verwachting of beperking heeft enige authoriteit over jou als deze niet verkregen is door deze spelregels. 
 
-~~## Article 1: Organizational Structure
+~~## Article 1: Organizational Structure~~
 
 ## Artikel 1: Organisatie Structuur
 
@@ -35,32 +35,50 @@ Geen enkele expliciete of impliciete verwachting of beperking heeft enige author
 
 ### 1.1 Definitie van een rol
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+~~A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.~~
 
-A Role definition consists of a descriptive name and one or more of the following:
+Een ***"Rol"*** is een functie van een organisatie die een persoon kan vervullen en van energie kan voorzien. De persoon (personen) die de Rol vervult is de ***"Rol Vervuller"*** van die Rol.
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+~~A Role definition consists of a descriptive name and one or more of the following:~~
 
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+Een Rol heeft een titel en een of meer van de volgende elementen:
 
+~~- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express. - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose. - **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose. A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.~~
 
+- **(a)** een ***"Doel"***, dit is een capaciteit, potentieel, of resultaat die de rol nastreeft.
+- **(b)** een of meerdere ***"Domein"***, dit zijn middelen, processen of andere dingen die de Rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar Doel.
+- **(c)** een of meerdere ***"Verantwoordelijkheiden"***, dit zijn doorlopende activiteiten waar de Rol zorg voor draagt in dienst van andere Rollen of het Doel.
 
-### 1.2 Responsibilities of Role Leads
+Een Rol kan ook een bepaald beleid hebben, deze geven of beperken bepaalde authoriteit of speciale regels die gelden binnen die Rol.
 
-As a Role Lead, you have the following responsibilities:
+~~### 1.2 Responsibilities of Role Leads~~
 
-#### 1.2.1 Processing Tensions
+### 1.2 Verantwoordelijkheden van Rol Vervullers
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+~~As a Role Lead, you have the following responsibilities:~~
 
-#### 1.2.2 Processing Purpose & Accountabilities
+Als Rol Vervuller heb je de volgende verantwoordelijkheden:
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+~~#### 1.2.1 Processing Tensions~~
+
+#### 1.2.1 Het verwerken van Spanningen
+
+~~You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.~~
+
+Jij bent verantwoordelijk voor; het vergelijken met de huidige staat van het Doel van jouw Rol en de visie die jij hebt voor haar ideale potentieel en het inzien van het verschil tussen die twee. (Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is.) Het is jouw verantwoordelijkheid om die Spanning op te lossen. 
+
+~~#### 1.2.2 Processing Purpose & Accountabilities~~
+
+#### 1.2.2 Het verwerken van Doel en Verantwoordelijkheden.
+
+~~You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:~~
+
+Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw Rol kunt vervullen door:
 
 - **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
 - **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+
+- **(a)** ***"Vervolg-Acties"*** voor jezelf te noteren, dit zijn nuttige dingen die je concreet kan doen mits 
 
 #### 1.2.3 Breaking Down Projects
 
