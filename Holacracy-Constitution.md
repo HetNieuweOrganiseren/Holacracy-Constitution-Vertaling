@@ -37,7 +37,7 @@ Geen enkele expliciete of impliciete verwachting of beperking heeft enige author
 
 ~~A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.~~
 
-Een ***"Rol"*** is een functie van een organisatie die een persoon kan vervullen en van energie kan voorzien. De persoon (personen) die de Rol vervult is de ***"Rol Vervuller"*** van die Rol.
+Een ***"Rol"*** is een functie van een organisatie die een persoon kan vervullen en van energie kan voorzien. De persoon (personen) die de Rol vervult is de ***"Rol Leider"*** van die Rol.
 
 ~~A Role definition consists of a descriptive name and one or more of the following:~~
 
@@ -49,15 +49,15 @@ Een Rol heeft een titel en een of meer van de volgende elementen:
 - **(b)** een of meerdere ***"Domein"***, dit zijn middelen, processen of andere dingen die de Rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar Doel.
 - **(c)** een of meerdere ***"Verantwoordelijkheiden"***, dit zijn doorlopende activiteiten waar de Rol zorg voor draagt in dienst van andere Rollen of het Doel.
 
-Een Rol kan ook een bepaald beleid hebben, deze geven of beperken bepaalde authoriteit of speciale regels die gelden binnen die Rol.
+!!Een Rol kan ook een bepaald ***"Beleid"*** hebben, deze geven of beperken bepaalde authoriteit of speciale regels die gelden binnen die Rol.!!
 
 ~~### 1.2 Responsibilities of Role Leads~~
 
-### 1.2 Verantwoordelijkheden van Rol Vervullers
+### 1.2 Verantwoordelijkheden van Rol Leiders
 
 ~~As a Role Lead, you have the following responsibilities:~~
 
-Als Rol Vervuller heb je de volgende verantwoordelijkheden:
+Als Rol Leider heb je de volgende verantwoordelijkheden:
 
 ~~#### 1.2.1 Processing Tensions~~
 
@@ -75,84 +75,161 @@ Jij bent verantwoordelijk voor; het vergelijken met de huidige staat van het Doe
 
 Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw Rol kunt vervullen door:
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+~~- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
+~- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.~~
 
-- **(a)** ***"Vervolg-Acties"*** voor jezelf te noteren, dit zijn nuttige dingen die je concreet kan doen mits 
+- **(a)** ***"Vervolg-Acties"*** voor jezelf te noteren, dit zijn nuttige dingen die je concreet kan doen als de tijd het toestaat; en
+- **(b)** ***"Projecten"***, dit zijn specifieke resultaten die nuttig zijn om naar toe te werken. 
 
-#### 1.2.3 Breaking Down Projects
+~~#### 1.2.3 Breaking Down Projects~~
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+#### 1.2.3 Opsplisen van Projecten
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+~~You are responsible for regularly defining Next-Actions for each of your Role's active Projects.~~
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+Jij bent verantwoordelijk voor het regelmatig maken van Vervolg-Acties voor je Projecten.
 
-#### 1.2.5 Executing Next-Actions
+~~#### 1.2.4 Tracking Projects, Next-Actions, & Tensions~~
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+#### 1.2.4 Bijhouden van Projecten, Vervolg-Acties en spanningen
 
-### 1.3 Circles
+~~You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.~~
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+Jij bent verantwoordelijk voor het opschrijven van alle Projecten en Vervolg-Acties van jouw rol in een geschreven lijst. Ook moet je jouw Spanningen opschrijven totdat je ze kunt verwerken in Projecten of Vervolg-Acties. Deze lijst moet je regelmatig verzorgen en aanvullen om een helder overzicht te houden van jouw potentiele werkzaamheden. 
 
-#### 1.3.1 Breaking Down Roles
+~~#### 1.2.5 Executing Next-Actions~~
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
+#### 1.2.5 Uitvoeren van Vervolg-Acties
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+~~Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.~~
 
-#### 1.3.2 Delegating Domains
+Wanneer je tijd beschikbaar heb voor jouw rol moet je overwegen welke Vervolg-Acties je kunt doen en diegene te kiezen die de meeste waarde oplevert voor de Organisatie.
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+~~### 1.3 Circles~~
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
+### 1.3 Cirkels
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+~~A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.~~
 
-#### 1.3.3 Anchor Circle
+Een ***“Cirkel”*** is een Organisatorische eenheid die bestaat uit Rollen en Beleid. De Rollen en het Beleid binnen een Cirkel vormen samen het ***"Bestuur"*** van die Cirkel
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+~~#### 1.3.1 Breaking Down Roles~~
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+#### 1.3.1 Het opsplitsen van Rollen
 
-#### 1.3.4 Linking Into Circles
+~~The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.~~
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+Elke Rol behelst (Omvatten/Inhouden) een Cirkel. Deze Cirkel can haar eigen Rollen en Beleid bevatten die opgedeeld kunnen worden om haar werk te organiseren. Met uitzondering van de Standaard Rollen zoals beschreven in artikel 1.3.5 & ?, deze kunnen niet verder opgesplitst worden.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+~~A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.~~
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+Een nieuwe Cirkel binnen een Rol word een ***"Sub-Cirkel"*** genoemd. De Cirkel buiten de Rol word de ***"(Moeder/Bredere/Super-Cirkel"*** genoemd.
+
+~~#### 1.3.2 Delegating Domains~~
+
+#### 1.3.2 Het Delegeren van Domeinen
+
+~~When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.~~
+
+Wanneer een Cirkel een Domein toekent aan een van haar Rollen dan mag iedere Rol Leider van die rol het domein beheren in naam van de Cirkel. Een Cirkel mag alleen Domeinen toekennen aan de Rollen binnen haar Cirkel en alleen als ze relevant zijn voor de harmonie binnen een Cirkel.
+
+~~Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.~~
+
+Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels haar eigen Bestuur (Rol-Overleg). Maar de Cirkel die het Domein heeft toegekend behoud mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
+
+~~Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.~~
+
+Het toekenen van een Domein aan een Rol geeft die Rol niet het recht om geld of middelen uit te geven, tenzij dat expliciet de functie van het domein is.
+
+~~#### 1.3.3 Anchor Circle~~
+
+#### 1.3.3 Anker Cirkel
+
+~~The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.~~
+
+De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***"Anker Cirkel" / DorpsCirkel*** genoemd. De Anker Cirkel controleert alle authoriteiten en Domeinen van de organisatie en heeft geen Super-Cirkel. De Anker Cirkel mag haar eigen doel aanpassen of haar verantwoordelijkheden verhelderen door middel van Beleid.
+
+~~The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.~~
+
+De Leden mogen een initiele structuur en andere bestuurlijkheden bepalen bij het aannemen van deze Spelregels.
+
+~~#### 1.3.4 Linking Into Circles~~
+
+#### 1.3.4 Verbinden met andere Cirkels
+
+~~A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.~~
+
+Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de andere Cirkel, of een van haar Super-Cirkels, die daartoe uitnodigd. 
+
+~~Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.~~
+
+Zodra een Rol aan een andere Cirkel is verbonden word die Rol beschouwd als onderdeel van het Bestuur van die Cirkel. Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De authoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
+
+~~A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.~~
+
+Een Cirkel kan de verbinding met een Rol verbreken door het beleid die uitnodigde tot die verbinding te verwijderen of aan te passen. Een Rol mag er ook voor kiezen om de verbinding te verbreken mits het beleid van haar Super Cirkel dat toestaat. Zodra de verbinding tussen een Rol en de andere Cirkel verbroken is vervalt alle Bestuur die de rol van die cirkel heeft gekregen. 
+
+~~#### 1.3.5 Facilitator & Secretary Roles~~
 
 #### 1.3.5 Facilitator & Secretary Roles
 
-Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+~~Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".~~
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".
+Elke Cirkel mag iemand aanwijzen als haar ***"Facilitator"***. Deze verkozen Facilitator vervult de ***"Facilitator Rol"*** in de Cirkel, het Doel van deze Rol is: "Zorg dragen voor het ontwikkelen van Bestuur en Operaties in lijn met deze Spelregels.
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
+~~Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".~~
 
-### 1.4 Circle Leads
+Elke Cirkel mag iemand aanwijzen als haar ***"Secretaris"***. Deze verkozen Secretaris vervult de ***"Secretaris Rol"*** in de Cirkel, het Doel van deze Rol is: "Zorg dragen voor het bijhouden van de documenten waarin de Bestuurs-regels en uitkomsten van Overleggen geschreven staan. 
 
-Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
+~~A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.~~
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+Een Cirkel mag Verantwoordelijkheden en Domeinen toevoegen, aanpassen en verwijderen van haar Facilitator- en/of Secretaris Rol. Geen enkele Cirkel mag het, door deze Spelregels bepaalde, Doel, Verantwoordelijkheden en Domeinen van deze Rollen aanpassen of verwijderen.
+
+~~### 1.4 Circle Leads~~
+
+### 1.4 Cirkel Leiders
+
+~~Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.~~
+
+Het dienen als Rol Leider betekend dat je ook ***"Cirkel Leider"*** bent van de Cirkel binnen die Rol en zodoende de ***"Cirkel Leider Rol"*** vervult van die Rol. De Cirkel Leider Rol is verantwoordelijk voor het behalen van het Doel van de Rol waarbinnen die Cirkel valt. Eveneens voor alle Verantwoordelijkheden en processen van die rol die niet ondergebracht zijn bij een Rol in die Cirkel.
+
+~~The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.~~
+
+De Anker Cirkel heeft geen Cirkel Leider tenzij daar een Beleid voor is.
 
 #### 1.4.1 Assigning Roles
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+#### 1.4.1 Het toekennen van Rollen
 
-A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
+~~A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.~~
 
-No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+De Cirkel Leider bepaal de toewijzing voor de vervulling van een Rol. Deze mag gegeven worden aan een ieder die bereid is de Rol te vervullen. 
+De Cirkel Leider mag de toewijzing tussen een Rol en de persoon die haar vervult ten alle tijden intrekken. Ook mag jij een Rol op ieder moment neer leggen tenzij anders afgesproken is. 
+Een Rol kan door meerdere mensen op het zelfde moment vervult worden. Mensen kunnen zoveel Rollen vervullen als gezond is. 
 
-#### 1.4.2 Covering Unfilled Roles
+~~A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.~~
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
+De Cirkel Leider mag voorts een 'focus' met een specifieke context aanbrengen op de toewijzing. Om dat te doen moet de gehele Rol wel relevant zijn binnen die context. Als een focus toegepast word dan gedraagt elke toewijzing zich als een apparte Rol. Het Doel, e.v.t. Domein en verantwoordelijkheden blijven geldig maar alleen binnen de focus van de toezeging 
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+~~No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.~~
 
-#### 1.4.3 Defining Priorities & Strategies
+Alleen de Cirkel Leider mag toezegingen doen of intrekken binnen haar cirkel, tenzij de Cirkel die authoriteit heeft gedelegeerd aan een andere Rol of Proces. Een Beleid kan deze toezeging en/of intrekking verder beperken.
+
+~~#### 1.4.2 Covering Unfilled Roles~~
+
+#### 1.4.2 Het vervullen van onvervulde Rollen
+
+~~Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.~~
+
+Wanneer een Rol in een Cirkel onvervuld is word de Cirkel Leider automatisch de Rol Leider van die Rol
+
+~~When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.~~
+
+Wanneer een Rol alleen vervuld word door mensen die geen onderdeel zijn van de organisatie dan geld hetzelfde. Maar dit geld alleen als die mensen niet actief hun verantwoordelijkheid nemen.
+
+~~#### 1.4.3 Defining Priorities & Strategies~~
+
+#### 1.4.3 Definiereren van Prioriteiten & Strategien
 
 A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
 
