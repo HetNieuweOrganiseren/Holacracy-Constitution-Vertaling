@@ -22,10 +22,10 @@ De Organisatie mag ***"Partners"*** (geintereseerden & kandidaten) uitnodigen om
 
 ~~Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.~~
 
-**we waren hier gebleven**
-Als deelnemer van de organisatie kun je vertrouwen op de authoriteit die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen binnen de Holarchie komen voort uit deze spelregels en de daaruit groeiende Organisatie (expliciet document b.v. glassfrog), jouw rechtsgeldige verantwoordelijkheden naar de organisatie en bij het handelen in naam van de Organisatie. 
+Deze methode is gebaseert op zelfreflectie, vertrouwen en eigen verantwoordelijkheid.
+Als deelnemer van de organisatie kun je vertrouwen op de authoriteit die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen, zowel binnen als buiten de Holarchie, komen voort uit deze spelregels in de vorm van Rollen en Beleid (in bv. glassfrog). Naarmate de organisatie groeit en vorm krijgt veranderen jouw verantwoordelijkheden en beperkingen mee.
 
-Geen enkele expliciete of impliciete verwachting of beperking heeft enige authoriteit over jou als deze niet verkregen is door deze spelregels. 
+Geen enkele expliciete of impliciete verwachting of beperking heeft enige authoriteit over jou als deze niet verkregen is door deze spelregels. Dus alleen als je een Rol vervult mogen mensen verwachten dat jij daar verantwoordelijkheid voor neemt. Elk ander verzoek is een uitnodiging maar geen verplichting. 
 
 ~~## Article 1: Organizational Structure~~
 
@@ -79,7 +79,7 @@ Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw R
 ~- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.~~
 
 - **(a)** ***"Vervolg-Acties"*** voor jezelf te noteren, dit zijn nuttige dingen die je concreet kan doen als de tijd het toestaat; en
-- **(b)** ***"Projecten"***, dit zijn specifieke resultaten die nuttig zijn om naar toe te werken. 
+- **(b)** ***"Projecten"***, dit zijn mspecifieke resultaten die nuttig zijn om naar toe te werken. 
 
 ~~#### 1.2.3 Breaking Down Projects~~
 
