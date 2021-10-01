@@ -37,7 +37,7 @@ Geen enkele expliciete of impliciete verwachting of beperking heeft enige author
 
 ~~A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.~~
 
-Een ***"Rol"*** is een functie van een organisatie die een persoon kan vervullen en van energie kan voorzien. De persoon (personen) die de Rol vervult is de ***"Rol Leider"*** van die Rol.
+Een ***"Rol"*** heeft een specifieke taak die noodzakelijk is voor Ecodorp Boekel (de organisatie). De persoon die de Rol vervult is de ***"Rol Leider"*** van die Rol. Een of meerdere personen kunnen een rol vervullen, er wordt dan een focus toegepast zie voor verdere uitleg: #1.4.1 Het toekennen van Rollen.
 
 ~~A Role definition consists of a descriptive name and one or more of the following:~~
 
@@ -45,11 +45,11 @@ Een Rol heeft een titel en een of meer van de volgende elementen:
 
 ~~- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express. - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose. - **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose. A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.~~
 
-- **(a)** een ***"Doel"***, dit is een capaciteit, potentieel, of resultaat die de rol nastreeft.
-- **(b)** een of meerdere ***"Domein"***, dit zijn middelen, processen of andere dingen die de Rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar Doel.
-- **(c)** een of meerdere ***"Verantwoordelijkheiden"***, dit zijn doorlopende activiteiten waar de Rol zorg voor draagt in dienst van andere Rollen of het Doel.
+- **(a)** een ***"Doel"***; dit is een bekwaamheid, potentieel, of resultaat die de rol nastreeft.
+- **(b)** een of meerdere ***"Domeinen"***; dit zijn middelen, processen of andere dingen die de Rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar Doel.
+- **(c)** een of meerdere ***"Verantwoordelijkheden"***; dit zijn doorlopende activiteiten waar de Rol zorg voor draagt, in dienst van andere Rollen of het Doel.
 
-!!Een Rol kan ook een bepaald ***"Beleid"*** hebben, deze geven of beperken bepaalde authoriteit of speciale regels die gelden binnen die Rol.!!
+!!Een Rol kan ook een bepaald ***"Beleid"*** hebben; deze geven of beperken bepaalde authoriteit of speciale regels die gelden binnen die Rol.!!
 
 ~~### 1.2 Responsibilities of Role Leads~~
 
@@ -65,9 +65,12 @@ Als Rol Leider heb je de volgende verantwoordelijkheden:
 
 ~~You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.~~
 
-Jij bent verantwoordelijk voor; het vergelijken met de huidige staat van het Doel van jouw Rol en de visie die jij hebt voor haar ideale potentieel en het inzien van het verschil tussen die twee. (Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wilt** dat het is.) Het is jouw verantwoordelijkheid om die Spanning op te lossen. 
+Jij als Rol Leider werk vanuit je eigen visie richting een helder doel met duidelijke verantwoordelijkheden. Daarbij is het jouw taak om spanningen te ervaren en actief te werken naar de oplossing van die spanning.
+Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wil** dat het is.
 
 ~~#### 1.2.2 Processing Purpose & Accountabilities~~
+
+*we waren hier gebleven*
 
 #### 1.2.2 Het verwerken van Doel en Verantwoordelijkheden.
 
