@@ -8,12 +8,12 @@
 
 ~~The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.~~
 
-De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun authoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden.
+De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun autoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden.
 
 ~~Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.~~
 
 Alle bestaande regels en processen van de organisatie blijven gelden, maar mogen alleen uitgebreid of aangepast worden volgens deze spelregels. 
-Regels en processen verliezen elke vorm van authoriteit zodra er iets gemaakt wordt dat ze vervangt of tegenspreekt.
+Regels en processen verliezen elke vorm van autoriteit zodra er iets gemaakt wordt dat ze vervangt of tegenspreekt.
 
 ~~The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.~~
 
@@ -22,10 +22,10 @@ De Organisatie mag ***"Partners"*** (geintereseerden & kandidaten) uitnodigen om
 
 ~~Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.~~
 
-Deze methode is gebaseert op zelfreflectie, vertrouwen en eigen verantwoordelijkheid.
-Als deelnemer van de organisatie kun je vertrouwen op de authoriteit die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen, zowel binnen als buiten de Holarchie, komen voort uit deze spelregels in de vorm van Rollen en Beleid (in bv. glassfrog). Naarmate de organisatie groeit en vorm krijgt veranderen jouw verantwoordelijkheden en beperkingen mee.
+Deze methode is gebaseerd op zelfreflectie, vertrouwen en eigen verantwoordelijkheid.
+Als deelnemer van de organisatie kun je vertrouwen op de autoriteit die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen, zowel binnen als buiten de Holarchie, komen voort uit deze spelregels in de vorm van Rollen en Beleid (in bv. glassfrog). Naarmate de organisatie groeit en vorm krijgt veranderen jouw verantwoordelijkheden en beperkingen mee.
 
-Geen enkele expliciete of impliciete verwachting of beperking heeft enige authoriteit over jou als deze niet verkregen is door deze spelregels. Dus alleen als je een Rol vervult mogen mensen verwachten dat jij daar verantwoordelijkheid voor neemt. Elk ander verzoek is een uitnodiging maar geen verplichting. 
+Geen enkele expliciete of impliciete verwachting of beperking heeft enige autoriteit over jou als deze niet verkregen is door deze spelregels. Dus alleen als je een Rol vervult mogen mensen verwachten dat jij daar verantwoordelijkheid voor neemt. Elk ander verzoek is een uitnodiging maar geen verplichting. 
 
 ~~## Article 1: Organizational Structure~~
 
@@ -41,7 +41,7 @@ Een ***"Rol"*** heeft een specifieke taak die noodzakelijk is voor Ecodorp Boeke
 
 ~~A Role definition consists of a descriptive name and one or more of the following:~~
 
-Een Rol heeft een titel en een of meer van de volgende elementen:
+Een Rol heeft een ***"Titel"*** en een of meer van de volgende elementen:
 
 ~~- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express. - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose. - **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose. A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.~~
 
@@ -49,7 +49,7 @@ Een Rol heeft een titel en een of meer van de volgende elementen:
 - **(b)** een of meerdere ***"Domeinen"***; dit zijn middelen, processen of andere dingen die de Rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar Doel.
 - **(c)** een of meerdere ***"Verantwoordelijkheden"***; dit zijn doorlopende activiteiten waar de Rol zorg voor draagt, in dienst van andere Rollen of het Doel.
 
-!!Een Rol kan ook een bepaald ***"Beleid"*** hebben; deze geven of beperken bepaalde authoriteit of speciale regels die gelden binnen die Rol.!!
+!!Een Rol kan ook een bepaald ***"Beleid"*** hebben; deze geven of beperken bepaalde autoriteit of speciale regels die gelden binnen die Rol.!!
 
 ~~### 1.2 Responsibilities of Role Leads~~
 
@@ -150,7 +150,7 @@ Het toekenen van een Domein aan een Rol geeft die Rol niet het recht om geld of 
 
 ~~The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.~~
 
-De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***"Anker Cirkel" / DorpsCirkel*** genoemd. De Anker Cirkel controleert alle authoriteiten en Domeinen van de organisatie en heeft geen Super-Cirkel. De Anker Cirkel mag haar eigen doel aanpassen of haar verantwoordelijkheden verhelderen door middel van Beleid.
+De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***"Anker Cirkel" / DorpsCirkel*** genoemd. De Anker Cirkel controleert alle autoriteiten en Domeinen van de organisatie en heeft geen Super-Cirkel. De Anker Cirkel mag haar eigen doel aanpassen of haar verantwoordelijkheden verhelderen door middel van Beleid.
 
 ~~The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.~~
 
@@ -166,7 +166,7 @@ Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de ande
 
 ~~Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.~~
 
-Zodra een Rol aan een andere Cirkel is verbonden word die Rol beschouwd als onderdeel van het Bestuur van die Cirkel. Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De authoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
+Zodra een Rol aan een andere Cirkel is verbonden word die Rol beschouwd als onderdeel van het Bestuur van die Cirkel. Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De autoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
 
 ~~A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.~~
 
@@ -216,7 +216,7 @@ De Cirkel Leider mag voorts een 'focus' met een specifieke context aanbrengen op
 
 ~~No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.~~
 
-Alleen de Cirkel Leider mag toezegingen doen of intrekken binnen haar cirkel, tenzij de Cirkel die authoriteit heeft gedelegeerd aan een andere Rol of Proces. Een Beleid kan deze toezeging en/of intrekking verder beperken.
+Alleen de Cirkel Leider mag toezegingen doen of intrekken binnen haar cirkel, tenzij de Cirkel die autoriteit heeft gedelegeerd aan een andere Rol of Proces. Een Beleid kan deze toezeging en/of intrekking verder beperken.
 
 ~~#### 1.4.2 Covering Unfilled Roles~~
 
