@@ -70,7 +70,7 @@ Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wil*
 
 ~~#### 1.2.2 Processing Purpose & Accountabilities~~
 
-*we waren hier gebleven*
+*we waren hier gebleven Pepijn*
 
 #### 1.2.2 Het verwerken van Doel en Verantwoordelijkheden.
 
@@ -81,12 +81,12 @@ Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw R
 ~~- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
 ~- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.~~
 
-- **(a)** ***"Vervolg-Acties"*** voor jezelf te noteren, dit zijn nuttige dingen die je concreet kan doen als de tijd het toestaat; en
-- **(b)** ***"Projecten"***, dit zijn mspecifieke resultaten die nuttig zijn om naar toe te werken. 
+- **(a)** ***"Vervolg-Acties"*** voor jezelf noteren die je concreet kunt doen als de tijd het toestaat; en
+- **(b)** ***"Projecten"*** noteren, dit zijn specifieke resultaten die nuttig zijn om naar toe te werken. 
 
 ~~#### 1.2.3 Breaking Down Projects~~
 
-#### 1.2.3 Opsplisen van Projecten
+#### 1.2.3 Opsplitsen van Projecten
 
 ~~You are responsible for regularly defining Next-Actions for each of your Role's active Projects.~~
 
@@ -98,7 +98,7 @@ Jij bent verantwoordelijk voor het regelmatig maken van Vervolg-Acties voor je P
 
 ~~You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.~~
 
-Jij bent verantwoordelijk voor het opschrijven van alle Projecten en Vervolg-Acties van jouw rol in een geschreven lijst. Ook moet je jouw Spanningen opschrijven totdat je ze kunt verwerken in Projecten of Vervolg-Acties. Deze lijst moet je regelmatig verzorgen en aanvullen om een helder overzicht te houden van jouw potentiele werkzaamheden. 
+Jij bent verantwoordelijk voor het opschrijven van alle Projecten en Vervolg-Acties van jouw rol in een geschreven lijst. Ook moet je jouw Spanningen opschrijven totdat je ze kunt verwerken in Projecten of Vervolg-Acties. Deze lijst moet je regelmatig verzorgen en aanvullen om een helder overzicht te houden van jouw potentiele werkzaamheden.
 
 ~~#### 1.2.5 Executing Next-Actions~~
 
@@ -106,15 +106,19 @@ Jij bent verantwoordelijk voor het opschrijven van alle Projecten en Vervolg-Act
 
 ~~Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.~~
 
-Wanneer je tijd beschikbaar heb voor jouw rol moet je overwegen welke Vervolg-Acties je kunt doen en diegene te kiezen die de meeste waarde oplevert voor de Organisatie.
+Wanneer je tijd beschikbaar hebt voor jouw rol moet je overwegen welke Vervolg-Acties je kunt doen. Je kiest diegene die de meeste waarde oplevert voor de Organisatie.
 
 ~~### 1.3 Circles~~
+
+<We waren hier gebleven>
 
 ### 1.3 Cirkels
 
 ~~A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.~~
 
-Een ***“Cirkel”*** is een Organisatorische eenheid die bestaat uit Rollen en Beleid. De Rollen en het Beleid binnen een Cirkel vormen samen het ***"Bestuur"*** van die Cirkel
+Een ***“Cirkel”*** is een Organisatorische eenheid om Rollen en Beleid te bepalen rond een gezamenlijk Doel. 
+De Rollen en het Beleid binnen een Cirkel bepalen het ***"Bestuur"*** van die Cirkel 
+***(### 5.2 Scope of Governance) // kijken of Bestuur ook een ander woord (roloverleg?) kan zijn.***
 
 ~~#### 1.3.1 Breaking Down Roles~~
 
