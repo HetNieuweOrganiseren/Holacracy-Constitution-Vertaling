@@ -110,15 +110,13 @@ Wanneer je tijd beschikbaar hebt voor jouw rol moet je overwegen welke Vervolg-A
 
 ~~### 1.3 Circles~~
 
-<We waren hier gebleven>
-
 ### 1.3 Cirkels
 
-~~A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.~~
+~~A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.~~ 
 
 Een ***“Cirkel”*** is een Organisatorische eenheid om Rollen en Beleid te bepalen rond een gezamenlijk Doel. 
-De Rollen en het Beleid binnen een Cirkel bepalen het ***"Bestuur"*** van die Cirkel 
-***(### 5.2 Scope of Governance) // kijken of Bestuur ook een ander woord (roloverleg?) kan zijn.***
+De Rollen en het Beleid binnen een Cirkel zijn het ***"Bestuur"*** van die Cirkel en wordt gemaakt in het ***Roloverleg.***
+Zie: 5.2 Speelruimte van het Bestuur
 
 ~~#### 1.3.1 Breaking Down Roles~~
 
@@ -126,13 +124,16 @@ De Rollen en het Beleid binnen een Cirkel bepalen het ***"Bestuur"*** van die Ci
 
 ~~The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.~~
 
-Elke Rol behelst (Omvatten/Inhouden) een Cirkel. Deze Cirkel can haar eigen Rollen en Beleid bevatten die opgedeeld kunnen worden om haar werk te organiseren. Met uitzondering van de Standaard Rollen zoals beschreven in artikel 1.3.5 & ?, deze kunnen niet verder opgesplitst worden.
-
 ~~A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.~~
 
-Een nieuwe Cirkel binnen een Rol word een ***"Sub-Cirkel"*** genoemd. De Cirkel buiten de Rol word de ***"(Moeder/Bredere/Super-Cirkel"*** genoemd.
+Een Rol is een cirkel die kan bepalen hoe zij haar eigen werk doet. Dit doet zij door haar eigen verantwoordelijkheden en beleid te maken gericht op een bepaald doel. 
+Een Rol kan zich op kan splitsen in meerder rollen en wordt dan een sub-cirkel. Dit geld niet voor de Standaard Rollen. (Zie Bijlage A standaard rollen)
+
+Een nieuwe Cirkel binnen een Rol word een ***"Sub-Cirkel"*** genoemd. De Cirkel buiten de Rol word de ***"Bredere-Cirkel"*** genoemd.
 
 ~~#### 1.3.2 Delegating Domains~~
+
+****Hier waren we gebleven****
 
 #### 1.3.2 Het Delegeren van Domeinen
 
@@ -416,7 +417,7 @@ The Circle's Facilitator is accountable for facilitating its Governance Process.
 
 Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
 
-### 5.2 Scope of Governance
+### 5.2 Scope of Governance / ### 5.2 Speelruimte van het Bestuur
 
 Within a Circle's Governance Process, its Circle Members may:
 
@@ -586,6 +587,56 @@ If the Circle in Process Breakdown has no Super-Circle, then the powers above al
 #### 5.5.3 Escalation of Process Breakdown
 
 A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+
+#### Bijlage A: Definitie Van Kernrollen
+
+**LeadLink**
+Doel: De LeadLink vertegenwoordigd het doel van de gehele Cirkel
+Domeinen: Rollen toewijzen binnen de Cirkel
+Verantwoordelijkheden:
+    Vertalen van het werk van de cirkel in gesegmenteerde rollen (en indien nodig ander Bestuur)
+    Toewijzen van Partners aan de Rollen van de Cirkel; de passendheid bewaken; feedback aanbieden om de passendheid te verbeteren; en het opnieuw toewijzen van 
+    Rollen aan andere Partners als het zinvol is voor het verbeteren van de passendheid.
+    Toekennen van de middelen van de Cirkel aan haar verschillende Projecten en/of Rollen.
+    Vaststellen van relatieve prioriteiten en strategieën voor de Cirkel.
+    Bepalen van Metrieken voor de Cirkel.
+    Beperkingen in de Cirkel ten opzichte van de Super-Cirkel verwijderen
+
+De LeadLink ‘erft’ alle aan de cirkel gegeven domeinen en verantwoordelijkheden, voor zover deze niet specifiek zijn gedelegeert aan een Rol of proces binnen de cirkel.
+
+**Rep Link**
+
+Doel: In de Super Cirkel vertegenwoordigd de Rep Link het Doel van de Sub-Cirkel; in de sub Cirkel is het Doel van de Rep Link om de Spanningen van de Sub Cirkel, die relevant zijn voor de Super Cirkel, te kanaliseren en op te lossen.
+Verantwoordelijkheden:
+    Verwijderen van beperkingen in de bredere Organisatie die de Sub Cirkel beperken.
+    Nastreven om Spanningen die worden overgebracht door de leden van de Sub Cirkel te begrijpen en te onderscheiden welke geschikt zijn om te behandelen in de Super Cirkel.
+
+    Verstrekken van zicht aan de Super Cirkel over de gezondheid van de Sub Cirkel, inclusief het rapporteren van Metrieken of checklist items die zijn toegewezen aan de hele Sub Cirkel.
+
+**Facilitator**
+
+Kerndoel: Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet.
+
+Verantwoordelijkheden:
+
+    Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Grondwet.
+
+    Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Grondwet.
+
+**Secretaris**
+
+Kerndoel: Handhaven en stabiliseren van de formele administratie van de Cirkel.
+
+Domeinen: Alle Grondwettelijk vereiste vastlegging van de Cirkel
+
+Verantwoordelijkheden:
+
+    Inplannen van de vereiste overleggen van de Cirkel, en alle Leden van de Cirkel op de hoogte brengen van de geplande tijden en locaties.
+
+    Vastleggen en publiceren van de uitkomsten van de vereiste overleggen van de Cirkel in het Bestuurs-Document en het bijhouden van een samengesteld overzicht van het huidige Bestuur van de Cirkel, checklist items en Metrieken.
+
+    Interpreteren van het Bestuurs-Document en de Grondwet op verzoek.
+
 
 ---
 
