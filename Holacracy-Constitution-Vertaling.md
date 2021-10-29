@@ -8,7 +8,7 @@
 
 ~~The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.~~
 
-De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun autoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden.
+De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun autoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden. De Leden mogen een initiele structuur, beleid en domeinen bepalen bij het aannemen van deze Spelregels.
 
 ~~Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.~~
 
@@ -133,35 +133,39 @@ Een nieuwe Cirkel binnen een Rol word een ***"Sub-Cirkel"*** genoemd. De Cirkel 
 
 ~~#### 1.3.2 Delegating Domains~~
 
-****Hier waren we gebleven****
-
 #### 1.3.2 Het Delegeren van Domeinen
 
 ~~When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.~~
 
-Wanneer een Cirkel een Domein toekent aan een van haar Rollen dan mag iedere Rol Leider van die rol het domein beheren in naam van de Cirkel. Een Cirkel mag alleen Domeinen toekennen aan de Rollen binnen haar Cirkel en alleen als ze relevant zijn voor de harmonie binnen een Cirkel.
+Wanneer een Cirkel een Domein toekent aan een van haar Rollen dan mag die Rol Leider het domein beheren. Een Cirkel mag alleen Domeinen toekennen aan de Rollen binnen haar Cirkel en alleen als ze relevant zijn voor die Cirkel.
 
 ~~Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.~~
 
-Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels haar eigen Bestuur (Rol-Overleg). Maar de Cirkel die het Domein heeft toegekend behoud mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
+Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het bestuur binnen de cirkel (Rol-Overleg). De Cirkel die het Domein heeft toegekend behoud mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
 
 ~~Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.~~
 
-Het toekenen van een Domein aan een Rol geeft die Rol niet het recht om geld of middelen uit te geven, tenzij dat expliciet de functie van het domein is.
+**~~Het toekenen van een Domein aan een Rol geeft de Cirkel niet het recht om geld of middelen uit te geven, tenzij dat expliciet de functie van het domein is.~~
 
 ~~#### 1.3.3 Anchor Circle~~
 
-#### 1.3.3 Anker Cirkel
+
+#### 1.3.3 ~~Anker~~ (Dorps-) Cirkel
 
 ~~The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.~~
 
-De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***"Anker Cirkel" / DorpsCirkel*** genoemd. De Anker Cirkel controleert alle autoriteiten en Domeinen van de organisatie en heeft geen Super-Cirkel. De Anker Cirkel mag haar eigen doel aanpassen of haar verantwoordelijkheden verhelderen door middel van Beleid.
+De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***~~"Anker Cirkel"~~ Dorpscirkel*** genoemd. 
+
+~~De Dorpscirkel bevat alle autoriteiten en Domeinen die de organisatie cirkels zelf controleren en heeft geen Bredere-Cirkel.~~
+
+De Dorpscirkel mag haar eigen doel aanpassen of haar verantwoordelijkheden verhelderen door middel van Beleid.
 
 ~~The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.~~
-
-De Leden mogen een initiele structuur en andere bestuurlijkheden bepalen bij het aannemen van deze Spelregels.
+= verplaatst naar inleiding
 
 ~~#### 1.3.4 Linking Into Circles~~
+
+**=== we zijn hier gebleven ===**
 
 #### 1.3.4 Verbinden met andere Cirkels
 
@@ -203,7 +207,7 @@ Het dienen als Rol Leider betekend dat je ook ***"Cirkel Leider"*** bent van de 
 
 ~~The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.~~
 
-De Anker Cirkel heeft geen Cirkel Leider tenzij daar een Beleid voor is.
+De Dorpscirkel heeft geen Cirkel Leider tenzij daar een Beleid voor is.
 
 #### 1.4.1 Assigning Roles
 
