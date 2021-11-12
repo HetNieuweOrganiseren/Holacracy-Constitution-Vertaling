@@ -70,7 +70,6 @@ Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wil*
 
 ~~#### 1.2.2 Processing Purpose & Accountabilities~~
 
-*we waren hier gebleven Pepijn*
 
 #### 1.2.2 Het verwerken van Doel en Verantwoordelijkheden.
 
@@ -82,15 +81,17 @@ Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw R
 ~- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.~~
 
 - **(a)** ***"Vervolg-Acties"*** voor jezelf noteren die je concreet kunt doen als de tijd het toestaat; en
-- **(b)** ***"Projecten"*** noteren, dit zijn specifieke resultaten die nuttig zijn om naar toe te werken. 
+- **(b)** ***"Projecten"*** noteren, dit is een set acties die leiden tot het bereiken van een specifiek doel.
 
 ~~#### 1.2.3 Breaking Down Projects~~
+
+*we waren hier gebleven Pepijn*
 
 #### 1.2.3 Opsplitsen van Projecten
 
 ~~You are responsible for regularly defining Next-Actions for each of your Role's active Projects.~~
 
-Jij bent verantwoordelijk voor het regelmatig maken van Vervolg-Acties voor je Projecten.
+Jij bent verantwoordelijk voor het regelmatig maken van Vervolg-Acties voor de Projecten van jouw Rol. 
 
 ~~#### 1.2.4 Tracking Projects, Next-Actions, & Tensions~~
 
