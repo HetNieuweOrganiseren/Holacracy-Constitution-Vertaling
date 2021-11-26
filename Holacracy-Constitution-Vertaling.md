@@ -8,7 +8,7 @@
 
 ~~The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.~~
 
-De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun autoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden. De Leden mogen een initiele structuur, beleid en domeinen bepalen bij het aannemen van deze Spelregels.
+De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekent dat de leden hun autoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden. De Leden mogen een initiele structuur, beleid en domeinen bepalen bij het aannemen van deze Spelregels.
 
 ~~Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.~~
 
@@ -65,7 +65,7 @@ Als Rol Leider heb je de volgende verantwoordelijkheden:
 
 ~~You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.~~
 
-Jij als Rol Leider werk vanuit je eigen visie richting een helder doel met duidelijke verantwoordelijkheden. Daarbij is het jouw taak om spanningen te ervaren en actief te werken naar de oplossing van die spanning.
+Jij als Rol Leider werkt vanuit je eigen visie richting een helder doel met duidelijke verantwoordelijkheden. Daarbij is het jouw taak om spanningen te ervaren en actief te werken naar de oplossing van die spanning.
 Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wil** dat het is.
 
 ~~#### 1.2.2 Processing Purpose & Accountabilities~~
@@ -140,7 +140,7 @@ Wanneer een Cirkel een Domein toekent aan een van haar Rollen dan mag die Rol Le
 
 ~~Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.~~
 
-Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het **Bestuur** binnen de cirkel (Rol-Overleg). De Cirkel die het Domein heeft toegekend behoudt mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
+Wanneer een Rol een Domein controleert mag zij Beleid bepalen middels het **Bestuur** binnen de cirkel (Rol-Overleg). De Cirkel die het Domein heeft toegekend behoudt mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
 
 ~~Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.~~
 
@@ -170,11 +170,11 @@ De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden ve
 
 ~~A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.~~
 
-Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de andere Cirkel, of een van haar Super-Cirkels, die daartoe uitnodigd. 
+Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de andere Cirkel, of een van haar Super-Cirkels, die daartoe uitnodigt. 
 
 ~~Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.~~
 
-Zodra een Rol aan een andere Cirkel is verbonden word die Rol beschouwd als onderdeel van het Bestuur van die Cirkel. Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De autoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
+Zodra een Rol aan een andere Cirkel is verbonden wordt die Rol beschouwd als onderdeel van het Bestuur van die Cirkel. Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De autoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch wordt De Cirkel binnen die Rol beschouwd als haar Sub-Cirkel.
 
 ~~A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.~~
 
@@ -216,11 +216,11 @@ De Dorpscirkel heeft geen Cirkel Leider tenzij daar een Beleid voor is.
 
 De Cirkel Leider bepaal de toewijzing voor de vervulling van een Rol. Deze mag gegeven worden aan een ieder die bereid is de Rol te vervullen. 
 De Cirkel Leider mag de toewijzing tussen een Rol en de persoon die haar vervult ten alle tijden intrekken. Ook mag jij een Rol op ieder moment neer leggen tenzij anders afgesproken is. 
-Een Rol kan door meerdere mensen op het zelfde moment vervult worden. Mensen kunnen zoveel Rollen vervullen als gezond is. 
+Een Rol kan door meerdere mensen op het zelfde moment vervuld worden. Mensen kunnen zoveel Rollen vervullen als gezond is. 
 
 ~~A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.~~
 
-De Cirkel Leider mag voorts een 'focus' met een specifieke context aanbrengen op de toewijzing. Om dat te doen moet de gehele Rol wel relevant zijn binnen die context. Als een focus toegepast word dan gedraagt elke toewijzing zich als een apparte Rol. Het Doel, e.v.t. Domein en verantwoordelijkheden blijven geldig maar alleen binnen de focus van de toezeging 
+De Cirkel Leider mag voorts een 'focus' met een specifieke context aanbrengen op de toewijzing. Om dat te doen moet de gehele Rol wel relevant zijn binnen die context. Als een focus toegepast wordt dan gedraagt elke toewijzing zich als een aparte Rol. Het Doel, e.v.t. Domein en verantwoordelijkheden blijven geldig maar alleen binnen de focus van de toezeging 
 
 ~~No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.~~
 
@@ -236,7 +236,7 @@ Wanneer een Rol in een Cirkel onvervuld is word de Cirkel Leider automatisch de 
 
 ~~When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.~~
 
-Wanneer een Rol alleen vervuld word door mensen die geen onderdeel zijn van de organisatie dan geld hetzelfde. Maar dit geld alleen als die mensen niet actief hun verantwoordelijkheid nemen.
+Wanneer een Rol alleen vervuld wordt door mensen die geen onderdeel zijn van de organisatie dan geldt hetzelfde. Maar dit geldt alleen als die mensen niet actief hun verantwoordelijkheid nemen.
 
 ~~#### 1.4.3 Defining Priorities & Strategies~~
 
