@@ -49,7 +49,7 @@ Een Rol heeft een ***"Titel"*** en een of meer van de volgende elementen:
 - **(b)** een of meerdere ***"Domeinen"***; dit zijn middelen, processen of andere dingen die de Rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar Doel.
 - **(c)** een of meerdere ***"Verantwoordelijkheden"***; dit zijn doorlopende activiteiten waar de Rol zorg voor draagt, in dienst van andere Rollen of het Doel.
 
-!!Een Rol kan ook een bepaald ***"Beleid"*** hebben; deze geven of beperken bepaalde autoriteit of speciale regels die gelden binnen die Rol.!!
+!!Een Rol kan ook een bepaald ***"Beleid"*** hebben; deze geven of beperken bepaalde autoriteit of speciale regels die gelden binnen die Rol. In andere woorden, beleid biedt duidelijkheid over hoe je iets uitvoert doordat je iets afkadert.!!
 
 ~~### 1.2 Responsibilities of Role Leads~~
 
@@ -85,13 +85,11 @@ Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw R
 
 ~~#### 1.2.3 Breaking Down Projects~~
 
-*we waren hier gebleven Pepijn*
-
 #### 1.2.3 Opsplitsen van Projecten
 
 ~~You are responsible for regularly defining Next-Actions for each of your Role's active Projects.~~
 
-Jij bent verantwoordelijk voor het regelmatig maken van Vervolg-Acties voor de Projecten van jouw Rol. 
+Jij bent verantwoordelijk voor het regelmatig maken van Vervolg-Acties voor de Projecten van jouw Rol(len). 
 
 ~~#### 1.2.4 Tracking Projects, Next-Actions, & Tensions~~
 
@@ -128,7 +126,7 @@ Zie: 5.2 Speelruimte van het Bestuur
 ~~A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.~~
 
 Een Rol is een cirkel die kan bepalen hoe zij haar eigen werk doet. Dit doet zij door haar eigen verantwoordelijkheden en beleid te maken gericht op een bepaald doel. 
-Een Rol kan zich op kan splitsen in meerder rollen en wordt dan een sub-cirkel. Dit geld niet voor de Standaard Rollen. (Zie Bijlage A standaard rollen)
+Een Rol kan zich op splitsen in meerdere rollen en wordt dan een sub-cirkel. Dit geld niet voor de Standaard Rollen. (Zie Bijlage A standaard rollen)
 
 Een nieuwe Cirkel binnen een Rol word een ***"Sub-Cirkel"*** genoemd. De Cirkel buiten de Rol word de ***"Bredere-Cirkel"*** genoemd.
 
@@ -142,7 +140,7 @@ Wanneer een Cirkel een Domein toekent aan een van haar Rollen dan mag die Rol Le
 
 ~~Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.~~
 
-Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het bestuur binnen de cirkel (Rol-Overleg). De Cirkel die het Domein heeft toegekend behoud mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
+Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het **Bestuur** binnen de cirkel (Rol-Overleg). De Cirkel die het Domein heeft toegekend behoudt mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
 
 ~~Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.~~
 
@@ -155,11 +153,11 @@ Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het bestuu
 
 ~~The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.~~
 
+**We waren hier gebleven Pepijn**
+
 De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***~~"Anker Cirkel"~~ Dorpscirkel*** genoemd. 
-
-~~De Dorpscirkel bevat alle autoriteiten en Domeinen die de organisatie cirkels zelf controleren en heeft geen Bredere-Cirkel.~~
-
-De Dorpscirkel mag haar eigen doel aanpassen of haar verantwoordelijkheden verhelderen door middel van Beleid.
+De Dorpscirkel bevat alle autoriteiten en Domeinen die de organisatie zelf controleert en heeft geen Bredere-Cirkel.
+De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden verhelderen door middel van Beleid.
 
 ~~The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.~~
 = verplaatst naar inleiding
