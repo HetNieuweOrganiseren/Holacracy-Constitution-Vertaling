@@ -164,17 +164,22 @@ De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden ve
 
 ~~#### 1.3.4 Linking Into Circles~~
 
-**=== we zijn hier gebleven ===**
-
-#### 1.3.4 Verbinden met andere Cirkels
+#### 1.3.4 Uitoefenen van jouw rol in een andere cirkel
 
 ~~A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.~~
+~~Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de andere Cirkel, of een van haar Super-Cirkels, die daartoe uitnodigd. ~~
 
-Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de andere Cirkel, of een van haar Super-Cirkels, die daartoe uitnodigd. 
+Als je een rol vervult in een cirkel kan die rol ook in een andere cirkel worden uitgeoefend. Dit kan door middel van beleid of op uitnodiging van een andere Cirkel.
 
 ~~Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.~~
 
-Zodra een Rol aan een andere Cirkel is verbonden word die Rol beschouwd als onderdeel van het Bestuur van die Cirkel. Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De autoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
+Zodra een Rol in een andere cirkel wordt uitgeoefend, wordt die Rol beschouwd als onderdeel van het Bestuur van die Cirkel.
+
+--- we waren hier gebleven---
+
+Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De autoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
+
+
 
 ~~A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.~~
 
