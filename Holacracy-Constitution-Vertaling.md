@@ -153,8 +153,6 @@ Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het **Best
 
 ~~The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.~~
 
-**We waren hier gebleven Pepijn**
-
 De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***~~"Anker Cirkel"~~ Dorpscirkel*** genoemd. 
 De Dorpscirkel bevat alle autoriteiten en Domeinen die de organisatie zelf controleert en heeft geen Bredere-Cirkel.
 De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden verhelderen door middel van Beleid.
@@ -164,18 +162,18 @@ De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden ve
 
 ~~#### 1.3.4 Linking Into Circles~~
 
+**hier waren we gebleven**
+
 #### 1.3.4 Uitoefenen van jouw rol in een andere cirkel
 
 ~~A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.~~
 ~~Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de andere Cirkel, of een van haar Super-Cirkels, die daartoe uitnodigd. ~~
 
-Als je een rol vervult in een cirkel kan die rol ook in een andere cirkel worden uitgeoefend. Dit kan door middel van beleid of op uitnodiging van een andere Cirkel.
+Als je een rol vervult in een cirkel kan die rol ook in een andere cirkel worden uitgeoefend. Dit kan door middel van het aanmaken van beleid in de andere cirkel.
 
 ~~Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.~~
 
 Zodra een Rol in een andere cirkel wordt uitgeoefend, wordt die Rol beschouwd als onderdeel van het Bestuur van die Cirkel.
-
---- we waren hier gebleven---
 
 Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De autoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
 
