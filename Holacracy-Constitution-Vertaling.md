@@ -8,28 +8,28 @@
 
 ~~The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.~~
 
-De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Organisatie"***. Wat betekend dat de leden hun autoriteit ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden. De Leden mogen een initiele structuur, beleid en domeinen bepalen bij het aannemen van deze Spelregels.
+De ***"Leden"*** accepteren bij deze de ***"Spelregels"*** als de formele structuur voor de ***"Het Dorp"***. Wat betekend dat de leden hun bevoegdheid ontlenen aan de regels en processen hieronder beschreven. De leden ~~en/of hun eventuele nazaten~~ mogen deze spelregels op elk moment aanpassen of verwerpen mits er geen bezwaar is en zolang de aanpassingen maar wel in dit document geschreven worden. De Leden mogen een initiele structuur, Werkafspraken en domeinen bepalen bij het aannemen van deze Spelregels.
 
 ~~Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.~~
 
 Alle bestaande regels en processen van de organisatie blijven gelden, maar mogen alleen uitgebreid of aangepast worden volgens deze spelregels. 
-Regels en processen verliezen elke vorm van autoriteit zodra er iets gemaakt wordt dat ze vervangt of tegenspreekt.
+Regels en processen verliezen elke vorm van bevoegdheid zodra er iets gemaakt wordt dat ze vervangt of tegenspreekt.
 
 ~~The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.~~
 
-De Organisatie mag ***"Partners"*** (geintereseerden & kandidaten) uitnodigen om mee te doen ~~te assisteren~~ met het besturen en uitvoeren van acties zolang de Partner akkoord gaat met deze spelregels. De Organisatie bepaald wanneer en op welke manier Partners bij kunnen dragen.
+De Het Dorp mag ***"Partners"*** (geintereseerden & kandidaten) uitnodigen om mee te doen ~~te assisteren~~ met het besturen en uitvoeren van acties zolang de Partner akkoord gaat met deze spelregels. De Het Dorp bepaald wanneer en op welke manier Partners bij kunnen dragen.
 ~~,tenzij de leden anders aangeven. Ook bepalen de leden de eerste Partners.~~
 
 ~~Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.~~
 
 Deze methode is gebaseerd op zelfreflectie, vertrouwen en eigen verantwoordelijkheid.
-Als deelnemer van de organisatie kun je vertrouwen op de autoriteit die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen, zowel binnen als buiten de Holarchie, komen voort uit deze spelregels in de vorm van Rollen en Beleid (in bv. glassfrog). Naarmate de organisatie groeit en vorm krijgt veranderen jouw verantwoordelijkheden en beperkingen mee.
+Als deelnemer van de organisatie kun je vertrouwen op de bevoegdheid die deze spelregels jou geven. Jouw verantwoordelijkheden en beperkingen, zowel binnen als buiten de Holarchie, komen voort uit deze spelregels in de vorm van Rollen en Werkafspraken (in bv. glassfrog). Naarmate de organisatie groeit en vorm krijgt veranderen jouw verantwoordelijkheden en beperkingen mee.
 
-Geen enkele expliciete of impliciete verwachting of beperking heeft enige autoriteit over jou als deze niet verkregen is door deze spelregels. Dus alleen als je een Rol vervult mogen mensen verwachten dat jij daar verantwoordelijkheid voor neemt. Elk ander verzoek is een uitnodiging maar geen verplichting. 
+Geen enkele expliciete of impliciete verwachting of beperking heeft enige bevoegdheid over jou als deze niet verkregen is door deze spelregels. Dus alleen als je een Rol vervult mogen mensen verwachten dat jij daar verantwoordelijkheid voor neemt. Elk ander verzoek is een uitnodiging maar geen verplichting. 
 
 ~~## Article 1: Organizational Structure~~
 
-## Artikel 1: Organisatie Structuur
+## Artikel 1: Het Dorp Structuur
 
 ~~### 1.1 Role Definition
 
@@ -37,7 +37,7 @@ Geen enkele expliciete of impliciete verwachting of beperking heeft enige autori
 
 ~~A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.~~
 
-Een ***"Rol"*** heeft een specifieke taak die noodzakelijk is voor Ecodorp Boekel (de organisatie). De persoon die de Rol vervult is de ***"Rol Leider"*** van die Rol. Een of meerdere personen kunnen een rol vervullen, er wordt dan een focus toegepast zie voor verdere uitleg: #1.4.1 Het toekennen van Rollen.
+Een ***"Rol"*** heeft een specifieke taak die noodzakelijk is voor Ecodorp Boekel (de organisatie). De persoon die de Rol vervult is de ***"rol-leider"*** van die Rol. Een of meerdere personen kunnen een rol vervullen, er wordt dan een focus toegepast zie voor verdere uitleg: #1.4.1 Het toekennen van Rollen.
 
 ~~A Role definition consists of a descriptive name and one or more of the following:~~
 
@@ -49,15 +49,15 @@ Een Rol heeft een ***"Titel"*** en een of meer van de volgende elementen:
 - **(b)** een of meerdere ***"Domeinen"***; dit zijn middelen, processen of andere dingen die de Rol mag controleren en reguleren alsof het haar eigendom is in dienst van haar Doel.
 - **(c)** een of meerdere ***"Verantwoordelijkheden"***; dit zijn doorlopende activiteiten waar de Rol zorg voor draagt, in dienst van andere Rollen of het Doel.
 
-!!Een Rol kan ook een bepaald ***"Beleid"*** hebben; deze geven of beperken bepaalde autoriteit of speciale regels die gelden binnen die Rol. In andere woorden, beleid biedt duidelijkheid over hoe je iets uitvoert doordat je iets afkadert.!!
+!!Een Rol kan ook een bepaald ***"Werkafspraken"*** hebben; deze geven of beperken bepaalde bevoegdheid of speciale regels die gelden binnen die Rol. In andere woorden, Werkafspraken biedt duidelijkheid over hoe je iets uitvoert doordat je iets afkadert.!!
 
 ~~### 1.2 Responsibilities of Role Leads~~
 
-### 1.2 Verantwoordelijkheden van Rol Leiders
+### 1.2 Verantwoordelijkheden van rol-leiders
 
 ~~As a Role Lead, you have the following responsibilities:~~
 
-Als Rol Leider heb je de volgende verantwoordelijkheden:
+Als rol-leider heb je de volgende verantwoordelijkheden:
 
 ~~#### 1.2.1 Processing Tensions~~
 
@@ -65,7 +65,9 @@ Als Rol Leider heb je de volgende verantwoordelijkheden:
 
 ~~You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.~~
 
-Jij als Rol Leider werk vanuit je eigen visie richting een helder doel met duidelijke verantwoordelijkheden. Daarbij is het jouw taak om spanningen te ervaren en actief te werken naar de oplossing van die spanning.
+Je bent er verantwoordelijk voor om de huidige invulling van de Doel en Verantwoordelijkheden van je Rol steeds te vergelijken met jouw beeld van de ideale situatie, en om verschillen tussen die twee te signaleren (elk verschil is een **“Spanning”**). Vervolgens ben je er verantwoordelijk voor om die Spanningen proberen op te lossen.
+
+~~Jij als rol-leider werk vanuit je eigen visie richting een helder doel met duidelijke verantwoordelijkheden. Daarbij is het jouw taak om spanningen te ervaren en actief te werken naar de oplossing van die spanning.
 Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wil** dat het is.
 
 ~~#### 1.2.2 Processing Purpose & Accountabilities~~
@@ -75,13 +77,13 @@ Een spanning is: Het verschil tussen hoe je **weet** dat het is en hoe je **wil*
 
 ~~You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:~~
 
-Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw Rol kunt vervullen door:
+Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het dorp het beste kan dienen door jouw Rol te vervullen:
 
 ~~- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
 ~- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.~~
 
 - **(a)** ***"Vervolg-Acties"*** voor jezelf noteren die je concreet kunt doen als de tijd het toestaat; en
-- **(b)** ***"Projecten"*** noteren, dit is een set acties die leiden tot het bereiken van een specifiek doel.
+- **(b)** ***"Projecten"*** noteren, dit is een set acties die leiden tot het bereiken van specifieke resultaten.
 
 ~~#### 1.2.3 Breaking Down Projects~~
 
@@ -89,7 +91,7 @@ Jij bent verantwoordelijk voor het regelmatig overwegen hoe jij het beste jouw R
 
 ~~You are responsible for regularly defining Next-Actions for each of your Role's active Projects.~~
 
-Jij bent verantwoordelijk voor het regelmatig maken van Vervolg-Acties voor de Projecten van jouw Rol(len). 
+Jij bent verantwoordelijk voor het regelmatig bepalen van Vervolg-Acties voor de Projecten van jouw Rol(len) en deze op je actie-lijst te zetten. 
 
 ~~#### 1.2.4 Tracking Projects, Next-Actions, & Tensions~~
 
@@ -105,7 +107,7 @@ Jij bent verantwoordelijk voor het opschrijven van alle Projecten en Vervolg-Act
 
 ~~Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.~~
 
-Wanneer je tijd beschikbaar hebt voor jouw rol moet je overwegen welke Vervolg-Acties je kunt doen. Je kiest diegene die de meeste waarde oplevert voor de Organisatie.
+Wanneer je tijd beschikbaar hebt voor jouw rol moet je overwegen welke Vervolg-Acties je kunt doen. Je kiest diegene die de meeste waarde oplevert voor de organisatie van het Dorp.
 
 ~~### 1.3 Circles~~
 
@@ -113,9 +115,9 @@ Wanneer je tijd beschikbaar hebt voor jouw rol moet je overwegen welke Vervolg-A
 
 ~~A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.~~ 
 
-Een ***“Cirkel”*** is een Organisatorische eenheid om Rollen en Beleid te bepalen rond een gezamenlijk Doel. 
-De Rollen en het Beleid binnen een Cirkel zijn het ***"Bestuur"*** van die Cirkel en wordt gemaakt in het ***Roloverleg.***
-Zie: 5.2 Speelruimte van het Bestuur
+Een ***“Cirkel”*** is een Organisatorische eenheid om Rollen en ***"Werkafspraken"*** te bepalen rond een gezamenlijk Doel. 
+Het ***"Besturen"*** van een cirkel doe je door Rollen en werkafspraken te maken in het ***"Roloverleg"***.
+Zie: 5.2 Speelruimte waarin je kunt Besturen.
 
 ~~#### 1.3.1 Breaking Down Roles~~
 
@@ -125,8 +127,8 @@ Zie: 5.2 Speelruimte van het Bestuur
 
 ~~A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.~~
 
-Een Rol is een cirkel die kan bepalen hoe zij haar eigen werk doet. Dit doet zij door haar eigen verantwoordelijkheden en beleid te maken gericht op een bepaald doel. 
-Een Rol kan zich op splitsen in meerdere rollen en wordt dan een sub-cirkel. Dit geld niet voor de Standaard Rollen. (Zie Bijlage A standaard rollen)
+Een Rol is een cirkel die kan bepalen hoe zij haar eigen werk doet. Dit doet zij door haar eigen verantwoordelijkheden en Werkafspraken te maken gericht op een bepaald doel. 
+Een Rol kan zich op-splitsen in meerdere rollen en wordt dan een sub-cirkel. Dit geld niet voor de Standaard Rollen. (Zie Bijlage A standaard rollen)
 
 Een nieuwe Cirkel binnen een Rol word een ***"Sub-Cirkel"*** genoemd. De Cirkel buiten de Rol word de ***"Bredere-Cirkel"*** genoemd.
 
@@ -136,11 +138,11 @@ Een nieuwe Cirkel binnen een Rol word een ***"Sub-Cirkel"*** genoemd. De Cirkel 
 
 ~~When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.~~
 
-Wanneer een Cirkel een Domein toekent aan een van haar Rollen dan mag die Rol Leider het domein beheren. Een Cirkel mag alleen Domeinen toekennen aan de Rollen binnen haar Cirkel en alleen als ze relevant zijn voor die Cirkel.
+Wanneer een Cirkel een Domein toekent aan een van haar Rollen dan mag de rol-leider van de cirkel het domein beheren. Een Cirkel mag alleen Domeinen toekennen aan de Rollen binnen haar Cirkel en alleen als ze relevant zijn voor die Cirkel.
 
 ~~Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.~~
 
-Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het **Bestuur** binnen de cirkel (Rol-Overleg). De Cirkel die het Domein heeft toegekend behoudt mede het recht om het Beleid van dat Domein te bepalen. Het Beleid van de Cirkel overstijgt het Beleid van de Rol in het geval van conflict.
+Wanneer een Rol een Domein beheert mag zij Werkafspraken bepalen middels het **Besturen** van de cirkel (Rol-Overleg). De Cirkel die het Domein heeft toegekend behoudt mede het recht om de Werkafspraken van dat Domein te bepalen. De Werkafspraken van de Cirkel overstijgen de Werkafspraken van de Rol in het geval van conflict.
 
 ~~Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.~~
 
@@ -149,93 +151,96 @@ Wanneer een Rol een Domein controleerd mag zij Beleid bepalen middels het **Best
 ~~#### 1.3.3 Anchor Circle~~
 
 
-#### 1.3.3 ~~Anker~~ (Dorps-) Cirkel
+#### 1.3.3 ~~Anker~~ Dorps-Cirkel
 
 ~~The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.~~
 
-De breedste Cirkel die het doel van de gehele Organisatie behelst wordt de ***~~"Anker Cirkel"~~ Dorpscirkel*** genoemd. 
-De Dorpscirkel bevat alle autoriteiten en Domeinen die de organisatie zelf controleert en heeft geen Bredere-Cirkel.
-De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden verhelderen door middel van Beleid.
+De breedste Cirkel die het doel van het gehele Dorp behelst wordt de ***Dorpscirkel*** genoemd. 
+De Dorpscirkel bevat alle bevoegdheden en Domeinen die de organisatie zelf beheert en heeft geen Bredere-Cirkel.
+De Dorpscirkel mag haar eigen doel aanpassen en/of haar verantwoordelijkheden verhelderen door middel van Werkafspraken.
 
 ~~The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.~~
-= verplaatst naar inleiding
+~~= verplaatst naar inleiding
 
 ~~#### 1.3.4 Linking Into Circles~~
-
-**hier waren we gebleven**
 
 #### 1.3.4 Uitoefenen van jouw rol in een andere cirkel
 
 ~~A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.~~
-~~Een Rol kan zich aan een andere Cirkel verbinden als er Beleid is binnen de andere Cirkel, of een van haar Super-Cirkels, die daartoe uitnodigd. ~~
+~~Een Rol kan zich aan een andere Cirkel verbinden als er Werkafspraken is binnen de andere Cirkel, of een van haar Bredere Cirkels, die daartoe uitnodigd. ~~
 
-Als je een rol vervult in een cirkel kan die rol ook in een andere cirkel worden uitgeoefend. Dit kan door middel van het aanmaken van beleid in de andere cirkel.
+Als je een rol vervult in een cirkel kan die rol ook in een andere cirkel worden uitgeoefend. Dit kan door middel van het aanmaken van Werkafspraken in de andere cirkel.
 
 ~~Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.~~
 
-Zodra een Rol in een andere cirkel wordt uitgeoefend, wordt die Rol beschouwd als onderdeel van het Bestuur van die Cirkel.
+Zodra een Rol in een andere cirkel wordt uitgeoefend, wordt die Rol beschouwd als onderdeel van de Besturing van die Cirkel.
 
-Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De autoriteit om de Originele Rol aan te passen blijft bij de Bron Cirkel van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Super-Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
-
-
+Die Cirkel mag dan ook aanvullingen doen aan de Rol en die aanvullingen op een later moment veranderen. De bevoegdheid om de Originele Rol aan te passen blijft bij de ***"Bron Cirkel"*** van de Rol. De Cirkel waaraan een Rol zich verbindt is niet de Bredere Cirkel van die Rol. Noch word De Cirkel binnen die Rol beschouwt als haar Sub-Cirkel.
 
 ~~A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.~~
 
-Een Cirkel kan de verbinding met een Rol verbreken door het beleid die uitnodigde tot die verbinding te verwijderen of aan te passen. Een Rol mag er ook voor kiezen om de verbinding te verbreken mits het beleid van haar Super Cirkel dat toestaat. Zodra de verbinding tussen een Rol en de andere Cirkel verbroken is vervalt alle Bestuur die de rol van die cirkel heeft gekregen. 
+Een Cirkel kan de verbinding met een Rol verbreken door het Werkafspraken die uitnodigde tot die verbinding te verwijderen of aan te passen. Een Rol mag er ook voor kiezen om de verbinding te verbreken mits het Werkafspraken van haar Super Cirkel dat toestaat. Zodra de verbinding tussen een Rol en de andere Cirkel verbroken is vervalt alle Besturing die de rol van die cirkel heeft gekregen. 
 
-~~#### 1.3.5 Facilitator & Secretary Roles~~
+~~#### 1.3.5 Facilitator & Secretaris Roles~~
 
-#### 1.3.5 Facilitator & Secretary Roles
+#### 1.3.5 Facilitator & Secretaris Rollen
 
 ~~Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".~~
 
-Elke Cirkel mag iemand aanwijzen als haar ***"Facilitator"***. Deze verkozen Facilitator vervult de ***"Facilitator Rol"*** in de Cirkel, het Doel van deze Rol is: "Zorg dragen voor het ontwikkelen van Bestuur en Operaties in lijn met deze Spelregels.
+Elke Cirkel mag iemand kiezen als haar ***"Facilitator"***. Het Doel van deze Rol is: "Zorg dragen voor het ontwikkelen van Besturing en vervolg-acties in lijn met deze Spelregels.
 
-~~Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".~~
+~~Any Circle may appoint someone as the Circle's ***"Secretaris"***. The selected Secretaris fills a ***“Secretaris Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".~~
 
-Elke Cirkel mag iemand aanwijzen als haar ***"Secretaris"***. Deze verkozen Secretaris vervult de ***"Secretaris Rol"*** in de Cirkel, het Doel van deze Rol is: "Zorg dragen voor het bijhouden van de documenten waarin de Bestuurs-regels en uitkomsten van Overleggen geschreven staan. 
+Elke Cirkel mag iemand verkiezen als haar ***"Secretaris"***. Het Doel van deze Rol is: "Zorg dragen voor het bijhouden van alle documenten die te maken hebben met de besturing van het dorp en waarin de uitkomsten van Overleggen beschreven staan. 
 
-~~A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.~~
+~~A Circle may add Accountabilities or Domains to its own Facilitator or Secretaris Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.~~
 
-Een Cirkel mag Verantwoordelijkheden en Domeinen toevoegen, aanpassen en verwijderen van haar Facilitator- en/of Secretaris Rol. Geen enkele Cirkel mag het, door deze Spelregels bepaalde, Doel, Verantwoordelijkheden en Domeinen van deze Rollen aanpassen of verwijderen.
+Een Cirkel mag Verantwoordelijkheden en Domeinen toevoegen, aanpassen en verwijderen van haar Facilitator- en/of Secretaris Rol. Maar de originele rol, zoals beschreven in deze spelregels, mag niet aangepast worden.
 
 ~~### 1.4 Circle Leads~~
 
-### 1.4 Cirkel Leiders
+### 1.4 Cirkel-Leiders
 
 ~~Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.~~
 
-Het dienen als Rol Leider betekend dat je ook ***"Cirkel Leider"*** bent van de Cirkel binnen die Rol en zodoende de ***"Cirkel Leider Rol"*** vervult van die Rol. De Cirkel Leider Rol is verantwoordelijk voor het behalen van het Doel van de Rol waarbinnen die Cirkel valt. Eveneens voor alle Verantwoordelijkheden en processen van die rol die niet ondergebracht zijn bij een Rol in die Cirkel.
+Het dienen als Rol-Leider betekend dat je ook ***"Cirkel-Leider"*** bent van de Cirkel binnen die Rol en zodoende de ***"Cirkel-Leider-Rol"*** vervult van die Rol. De Cirkel-Leider-Rol is verantwoordelijk voor het behalen van het Doel van de Rol waarbinnen die Cirkel valt. Eveneens voor alle Verantwoordelijkheden en processen van die rol die niet ondergebracht zijn bij een Rol in die Cirkel.
 
 ~~The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.~~
 
-De Dorpscirkel heeft geen Cirkel Leider tenzij daar een Beleid voor is.
+De Dorpscirkel heeft geen Cirkel-Leider tenzij daar een Werkafspraken voor is.
 
-#### 1.4.1 Assigning Roles
+~~#### 1.4.1 Assigning Roles~~
 
-#### 1.4.1 Het toekennen van Rollen
+#### 1.4.1 Het toewijzing van Rollen
 
 ~~A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.~~
 
-De Cirkel Leider bepaal de toewijzing voor de vervulling van een Rol. Deze mag gegeven worden aan een ieder die bereid is de Rol te vervullen. 
-De Cirkel Leider mag de toewijzing tussen een Rol en de persoon die haar vervult ten alle tijden intrekken. Ook mag jij een Rol op ieder moment neer leggen tenzij anders afgesproken is. 
+De Cirkel bepaalt de toewijzing voor de vervulling van een Rol. Deze mag vervuld worden door iedereen die hiertoe bereid is. 
+De Cirkel mag de toewijzing van een Rol ten alle tijden intrekken door middel van een voorstel in een roloverleg.
+
+Ook mag een Rol op ieder moment neer gelegd worden door Artikel 1.4.1.1 te volgen, tenzij anders is afgesproken. 
 Een Rol kan door meerdere mensen op het zelfde moment vervult worden. Mensen kunnen zoveel Rollen vervullen als gezond is. 
 
 ~~A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.~~
 
-De Cirkel Leider mag voorts een 'focus' met een specifieke context aanbrengen op de toewijzing. Om dat te doen moet de gehele Rol wel relevant zijn binnen die context. Als een focus toegepast word dan gedraagt elke toewijzing zich als een apparte Rol. Het Doel, e.v.t. Domein en verantwoordelijkheden blijven geldig maar alleen binnen de focus van de toezeging 
+De Cirkel mag een 'focus' met een specifieke context aanbrengen op de toewijzing. Om dat te doen moet de gehele Rol wel relevant zijn binnen die context. Als een focus toegepast word dan gedraagt elke toewijzing zich als een aparte Rol. Het Doel, e.v.t. Domein en verantwoordelijkheden blijven geldig maar alleen binnen de focus van de toezegging 
 
 ~~No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.~~
 
-Alleen de Cirkel Leider mag toezegingen doen of intrekken binnen haar cirkel, tenzij de Cirkel die autoriteit heeft gedelegeerd aan een andere Rol of Proces. Een Beleid kan deze toezeging en/of intrekking verder beperken.
+Alleen de Cirkel mag toezeggingen doen of intrekken binnen haar cirkel, tenzij de Cirkel die bevoegdheid heeft gedelegeerd aan een andere Rol of Proces. Met een Werkafspraak kan deze toezegging en/of intrekking aangepast worden.
 
 ~~#### 1.4.2 Covering Unfilled Roles~~
+
+#### 1.4.1.1 Het neerleggen van Rollen
+
+Als jij een Rol neerlegt moet je de volgende stappen ondernemen:
+1. Informeer alle rollen die worden geraakt door jouw besluit.
+2. Een goede overdracht van al jouw projecten, acties en verdere nuttige informatie.
 
 #### 1.4.2 Het vervullen van onvervulde Rollen
 
 ~~Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.~~
-
-Wanneer een Rol in een Cirkel onvervuld is word de Cirkel Leider automatisch de Rol Leider van die Rol
+Wanneer een Rol in een Cirkel onvervuld is word de Cirkel-Leider automatisch de rol-leider van die Rol
 
 ~~When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.~~
 
@@ -304,15 +309,15 @@ As a Partner, you have a duty to align your behavior with any written Relational
 
 ## Article 3: Tactical Meetings
 
-Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
+Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretaris of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
 
 ### 3.1 Attendance
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
+For regular Tactical Meetings convened by a Circle's Secretaris, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
 
 ### 3.2 Meeting Process
 
-The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretaris is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretaris, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
 
 Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
 
@@ -363,15 +368,15 @@ As a Partner, you may use your reasonable judgment to interpret this Constitutio
 
 #### 4.2.1 Conflicts of Interpretation
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretaris of any affected Circle to rule on which interpretation to use, and the Secretaris is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretaris responds, everyone must align with that Secretaris's ruling until the relevant text or context changes.
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+After ruling on an interpretation, a Secretaris may publish the ruling and the logic behind it. If published, the Secretaris of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretaris may still contradict it once a compelling new circumstance renders the logic obsolete.
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+You may appeal a Secretaris's interpretation to the Secretaris of any Super-Circle. A Super-Circle Secretaris may overrule the interpretation of any Sub-Circle Secretaris.
 
 #### 4.2.2 Striking Invalid Governance
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
+Any Partner may ask a Circle's Secretaris to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretaris concludes it violates the rules of this Constitution, the Secretaris must strike it from the Circle's records. After doing so, the Secretaris must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
 
 ### 4.3 Individual Initiative
 
@@ -417,13 +422,14 @@ The selected Circle Rep becomes a Circle Member of any Circle containing that Ci
 
 A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
 
-#### 5.1.2 Facilitator & Secretary
+#### 5.1.2 Facilitator & Secretaris
 
-The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
+The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretaris is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretaris. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretaris. No Role or Policy may assign the Facilitator Role or Secretaris Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
 
-### 5.2 Scope of Governance / ### 5.2 Speelruimte van het Bestuur
+### 5.2 Scope of Governance / ### 5.2 Speelruimte waarin je kunt Besturen.
+
 
 Within a Circle's Governance Process, its Circle Members may:
 
@@ -448,7 +454,7 @@ A Policy that grants or constrains authority applies in all Sub-Circles as well,
 
 ### 5.3 Changing Governance
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretaris. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
 
 Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposer bring the Proposal to a meeting for real-time processing instead. Unless a Policy says otherwise, the asynchronous processing then stops and the Proposal is considered withdrawn until re-proposed at a meeting.
 
@@ -479,7 +485,7 @@ However, regardless of the above criteria, a concern always counts as an Objecti
 
 The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
-When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretaris to interpret if that's true. If the Secretaris rules that it is not, the Facilitator must then dismiss the Objection.
 
 #### 5.3.4 Rules of Integration
 
@@ -492,7 +498,7 @@ While attempting to resolve an Objection, the following rules apply:
 
 #### 5.3.5 Integrative Election Process
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretaris. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
 
 - **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
 - **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
@@ -505,14 +511,14 @@ A Circle may adopt a Policy to define a time limit for nominating a candidate or
 
 The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+#### 5.3.6 Surrogates for Facilitator & Secretaris
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+A surrogate may act as Facilitator or Secretaris while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretaris is unavailable when needed, or requests a surrogate for any reason.
 
 Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 - **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
+- **(b)** for Facilitator, the acting Secretaris of the Circle, and for Secretaris, the acting Facilitator of the Circle;
 - **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
 - **(d)** the first Circle Member to declare themselves acting as surrogate.
 
@@ -520,11 +526,11 @@ Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time.
 
-The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+The Circle's Secretaris is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretaris must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
 
 #### 5.4.1 Attendance
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretaris may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
 
 As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
 
@@ -532,9 +538,9 @@ Beyond the above, no one else may participate in a Circle’s Governance Meeting
 
 #### 5.4.2 Notice & Duration
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+A Circle may only conduct a Governance Meeting if the Secretaris gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+Governance Meetings end once they reach the duration initially scheduled by the Secretaris. The Secretaris may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
 
 Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
 
@@ -563,15 +569,15 @@ Agenda items are processed one at a time. To process a request for an election, 
 The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
 
 - **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
+- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretaris to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretaris must do so.
 - **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
+- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretaris. Any engagement by the Secretaris must focus solely on capturing the amended Proposal.
 - **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
 - **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
 
 ### 5.5 Process Breakdown
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretaris of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
 
 #### 5.5.1 Breakdown from Failed Governance
 
@@ -583,7 +589,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 
 - **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
 - **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
+- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretaris of the Circle; and
 - **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
 
 These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
@@ -606,7 +612,7 @@ Verantwoordelijkheden:
     Toekennen van de middelen van de Cirkel aan haar verschillende Projecten en/of Rollen.
     Vaststellen van relatieve prioriteiten en strategieën voor de Cirkel.
     Bepalen van Metrieken voor de Cirkel.
-    Beperkingen in de Cirkel ten opzichte van de Super-Cirkel verwijderen
+    Beperkingen in de Cirkel ten opzichte van de Bredere Cirkel verwijderen
 
 De LeadLink ‘erft’ alle aan de cirkel gegeven domeinen en verantwoordelijkheden, voor zover deze niet specifiek zijn gedelegeert aan een Rol of proces binnen de cirkel.
 
@@ -614,26 +620,26 @@ De LeadLink ‘erft’ alle aan de cirkel gegeven domeinen en verantwoordelijkhe
 
 Doel: In de Super Cirkel vertegenwoordigd de Rep Link het Doel van de Sub-Cirkel; in de sub Cirkel is het Doel van de Rep Link om de Spanningen van de Sub Cirkel, die relevant zijn voor de Super Cirkel, te kanaliseren en op te lossen.
 Verantwoordelijkheden:
-    Verwijderen van beperkingen in de bredere Organisatie die de Sub Cirkel beperken.
+    Verwijderen van beperkingen in de bredere Het Dorp die de Sub Cirkel beperken.
     Nastreven om Spanningen die worden overgebracht door de leden van de Sub Cirkel te begrijpen en te onderscheiden welke geschikt zijn om te behandelen in de Super Cirkel.
 
     Verstrekken van zicht aan de Super Cirkel over de gezondheid van de Sub Cirkel, inclusief het rapporteren van Metrieken of checklist items die zijn toegewezen aan de hele Sub Cirkel.
 
 **Facilitator**
 
-Kerndoel: Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze grondwet.
+Kerndoel: Begeleiden van het Rol- en Actie Overleg conform de spelregels van deze spelregels.
 
 Verantwoordelijkheden:
 
-    Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de Grondwet.
+    Begeleiden van de overleggen van de Cirkel die vereist zijn volgens de spelregels.
 
-    Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de Grondwet.
+    Controleren van de Overleggen en administratie van de Sub-Cirkels waar nodig en verklaren van een Processtoring bij het ontdekken van een patroon of gedrag dat in strijd is met de regels van de spelregels.
 
 **Secretaris**
 
 Kerndoel: Handhaven en stabiliseren van de formele administratie van de Cirkel.
 
-Domeinen: Alle Grondwettelijk vereiste vastlegging van de Cirkel
+Domeinen: Alle spelregelstelijk vereiste vastlegging van de Cirkel
 
 Verantwoordelijkheden:
 
@@ -641,7 +647,7 @@ Verantwoordelijkheden:
 
     Vastleggen en publiceren van de uitkomsten van de vereiste overleggen van de Cirkel in het Bestuurs-Document en het bijhouden van een samengesteld overzicht van het huidige Bestuur van de Cirkel, checklist items en Metrieken.
 
-    Interpreteren van het Bestuurs-Document en de Grondwet op verzoek.
+    Interpreteren van het Bestuurs-Document en de spelregels op verzoek.
 
 
 ---
